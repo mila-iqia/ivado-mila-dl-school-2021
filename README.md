@@ -1,5 +1,5 @@
 # IVADO/Mila's Deep Learning school, 6th edition (Online) - March 25th to April 29th 2021
-![school schedule](https://ivado.ca/wp-content/uploads/2021/02/IVADO_DLschool_Calendar_v3_Agenda_noLogo.jpg)
+![school banner](images/IVADOMila_formation_DeepLearningSchool_v2_1200X630.jpg)
 
 ## Welcome!
 
@@ -13,11 +13,11 @@ All lectures are given virtually. Each lecture presents new material and assumes
 
 Each [tutorials](tutorials) has two files associated with it:
 * The `_to_complete` file in which templates are provided but code is left out for you to complete.
-* The `_solutions` file inclues suggested solutions. _Note: That file will be uploaded after each respective live coding session._
+* The `_solutions` file includes suggested solutions. _Note: That file will be uploaded after each respective live coding session._
 
 ## Practical Information
 
-The tutorials are in [Jupyter Notebook](http://jupyter.org) format. To facilitate usage/setup of those notebooks, we will be using [Google Colab](https://colab.research.google.com/github/mila-iqia/ivado-mila-dl-school-2021) which gives users access to a pre-configured python environment with all the necessary dependencies. It also gives access to free GPUs for cloud computation. Using Colab will require an internet connection and a Google Account. You can however use the notebooks locally if you so prefer but additional setup will be necessary.
+The tutorials are in [Jupyter Notebook](http://jupyter.org) format. To facilitate usage/setup of those notebooks, we will be using [Google Colab](https://colab.research.google.com/github/mila-iqia/ivado-mila-dl-school-2021) which gives users access to a pre-configured python environment with all the necessary dependencies. It also gives access to free GPUs for cloud computation. Using Colab will require an internet connection and a Google Account. You can use the notebooks locally if you so choose. However, an additional setup will be necessary.
 
 ## [Tutorials on Colab](https://colab.research.google.com/github/mila-iqia/ivado-mila-dl-school-2021/)
 
